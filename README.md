@@ -1,2 +1,2 @@
 # MVVMPattern-Kotlin
-Android MVVP pattern example with room database
+MVVM with Kotlin — Android Architecture Components, Dagger 2, Retrofit and RxAndroid
